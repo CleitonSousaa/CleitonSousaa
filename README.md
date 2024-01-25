@@ -19,10 +19,7 @@
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-##  
-##  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonSousaa&layout=donut)](https://github.com/CleitonSousaa/github-readme-stats) 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()  
 ##  
 ##  
 ## Contato  
