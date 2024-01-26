@@ -1,4 +1,23 @@
-# Olá, Eu sou o Francisco Cleiton ✋  
+<h1>Olá, Seja bem vindo !!!</h1>
+
+<div style="border: 1px solid #FFA500; padding: 20px;">
+    <!-- Seu conteúdo aqui -->
+    <h2>Minha Área com Bordas</h2>
+    <p>Este é um parágrafo dentro da área com bordas.</p>
+</div>
+
+
+<p>Eu sou o Francisco Cleiton Trabalho com desenvolvimento De software ✋ <p/>
+<hr/>
+
+
+
+
+
+
+
+
+
 ![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonSousaa&show_icons=true&theme=transparent)
 ##  
 ##  
