@@ -1,9 +1,5 @@
 <h1>Olá, Seja bem vindo !!!</h1>
 
-<div style="border: 1px solid #FFA500; padding: 20px;">
-    <h2>Sobre</h2>
-    <p>Olá Seja bem vindo(a)</p>
-</div>
 <br/>
 <br/>
 
