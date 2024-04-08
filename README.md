@@ -2,8 +2,7 @@
 
 <div style="border: 1px solid #FFA500; padding: 20px;">
     <h2>Sobre</h2>
-    <p>Eu sou Francisco Cleiton, Trabalho com desenvolvimento De software FullStack.</p>
-    <p>Não tenho uma linguagem favorita, busco aperfeiçoar as que conheço e aprender mais sobre outras linguagens e seus melhores usos.</p>
+    <p>Olá Seja bem vindo(a)</p>
 </div>
 <br/>
 <br/>
@@ -16,7 +15,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-sousaa/) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89981217570) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fcleitons_) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fccleitonfs.329@gmail.com?subject=Assunto%20da%20Mensagem&body=Corpo%20da%20Mensagem)   
 
 <hr/>
