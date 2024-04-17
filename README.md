@@ -1,6 +1,6 @@
 <h1>Hello, welcome!</h1>
 <h2>Language:</h2>    
-<li>Portugues Brazil</li>    
+<li>Portugues(Brazil)</li>    
 <li>English</li>
 <br/>
 <br/>
