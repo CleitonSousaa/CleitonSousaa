@@ -1,5 +1,5 @@
-<h1>Hello, welcome!</h1>
-<h2>Language:</h2>    
+<h1>Olá, Seja bem Vindos!</h1>
+<h2>Idioma:</h2>    
 <li>Portugues(Brazil)</li>    
 <li>English</li>
 <br/>
