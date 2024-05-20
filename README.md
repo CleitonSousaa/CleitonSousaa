@@ -1,7 +1,7 @@
 <h1>Olá, Seja bem Vindos!</h1>
 <h2>Idioma:</h2>    
-<li>Portugues(Brazil)</li>    
-<li>English</li>
+<li>Português (Brasil)</li>
+<li>Inglês</li>
 <br/>
 <br/>
 
