@@ -2,6 +2,7 @@
 <h2>Idioma:</h2>    
 <li>Português (Brasil)</li>
 <li>Inglês</li>
+<li>Espanhol</li>
 <br/>
 <br/>
 
