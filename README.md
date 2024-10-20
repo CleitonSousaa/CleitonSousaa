@@ -11,3 +11,9 @@
 <hr/>
 
 
+  ## Projetos   
+  organizados como:   
+  - <ambiente>_<Nome_do_projeto>   
+
+
+
