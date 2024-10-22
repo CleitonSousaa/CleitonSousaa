@@ -6,13 +6,3 @@
 <br/>
 
 ![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonSousaa&show_icons=true&theme=transparent)
-
-<hr/>
-
-
-  ## Projetos   
-  organizados como:   
-  - <ambiente>_<Nome_do_projeto>   
-
-
-
