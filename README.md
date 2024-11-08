@@ -1,2 +1,3 @@
-<h1>Olá, Seja bem Vindos!</h1>
-![Cleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitonSousaa&show_icons=true&theme=transparent)
+<h1>Visite o meu portifolio:</h1>
+<li>Conheça mais sobre mim</li>
+<li>Meus projetos com mais detalhes</li>
