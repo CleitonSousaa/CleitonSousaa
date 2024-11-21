@@ -5,10 +5,17 @@
   Meu objetivo é apresentar, de forma acessível e organizada, as experiências e conhecimentos que adquiri ao longo da minha jornada.
   Fique à vontade para explorar e conhecer mais sobre meu trabalho!
 </p>
+
+<hr>
+
 <ul>
-  <span>Graduando em Análise e Desenvolvimento de Sistemas</span>
-  <li>Aqui você tera acesso a projetos práticos.</li>
-  <li>Trabalhos de Portfolio.</li>
-  <li>Aplicação de conteitos e novas tecnologias.</li>
+  <li>Graduando em Análise e Desenvolvimento de Sistemas</h1>
+  <ul>
+    <li>Aqui você tera acesso a projetos práticos.</li>
+    <li>Trabalhos de Portfolio.</li>
+    <li>Aplicação de conteitos e novas tecnologias.</li>
+  </ul>
 </ul>
+
+<hr>
 
