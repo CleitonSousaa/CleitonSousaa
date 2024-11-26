@@ -1,4 +1,4 @@
-<h1>Conheça mais sobre mim:</h1>
+<h1>Sobre mim:</h1>
 <p>
   Este perfil foi criado para compartilhar minha trajetória e projetos como desenvolvedor.
   Aqui, você poderá conhecer mais sobre meu perfil profissional, minhas habilidades e alguns dos trabalhos que realizei.
