@@ -13,7 +13,7 @@
   <ul>
     <li>Aqui você tera acesso a projetos práticos.</li>
     <li>Trabalhos de Portfolio.</li>
-    <li>Aplicação de conteitos e novas tecnologias.</li>
+    <li>Aplicação de conceitos sobre novas tecnologias.</li>
   </ul>
 </ul>
 
